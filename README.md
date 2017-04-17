@@ -133,8 +133,8 @@ Sometimes we'd like to have some javascript help us out. For example, what if yo
 Wanna bring in [tuneup.js](https://github.com/alexvollmer/tuneup_js), [mechanic](https://github.com/jaykz52/mechanic), or [underscore](http://underscorejs.org) without manually downloading them first? Just use `#github` instead of `#import`:
 
 <pre><code>#github "jashkenas/underscore/underscore.js"
-#github "alexvollmer/tuneup_js/tuneup.js"
-#github "jaykz52/mechanic/src/mechanic-core.js"
+# github "alexvollmer/tuneup_js/tuneup.js"
+# github "jaykz52/mechanic/src/mechanic-core.js"
 </code></pre>
 
 
